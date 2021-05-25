@@ -21,7 +21,7 @@
     "@angular/router": "^8.0.0",
     "autoprefixer": "^9.7.1",
     "bootstrap": "^3.4.1",
-    "browserslist": "^4.7.2",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30001010",
     "core-js": "^3.1.2",
     "rxjs": "^6.0.0",
